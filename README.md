@@ -1,5 +1,5 @@
 
-# 🔗 Static Linking in Linux
+# 🔗 Static Linking 
 
 ## 📌 Overview
 
